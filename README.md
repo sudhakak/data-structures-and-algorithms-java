@@ -1,0 +1,2 @@
+The class Arrayreverse reads the input array and reverse the array elemensts and stores into a 2nd array before it prints out both the arrays.
+The problem statement and Algorithm are added into the asserts folder as reversearray.jpg file.
